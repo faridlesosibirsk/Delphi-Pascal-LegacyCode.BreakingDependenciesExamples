@@ -21,7 +21,11 @@ uses
   DUnitTestRunner,
   UOrderCalculator in '..\Dodo.LegacyCode\0-PreserveSignatures\UOrderCalculator.pas',
   UOfficeManager in '..\Dodo.LegacyCode\2-SproutClass\UOfficeManager.pas',
-  UOfficeManagerReport in '..\Dodo.LegacyCode\2-SproutClass\UOfficeManagerReport.pas';
+  UOfficeManagerReport in '..\Dodo.LegacyCode\2-SproutClass\UOfficeManagerReport.pas',
+  UEmployee in '..\Dodo.LegacyCode\3-WrapMethod\UEmployee.pas',
+  UMoney in '..\Dodo.LegacyCode\3-WrapMethod\UMoney.pas',
+  UPaymentService in '..\Dodo.LegacyCode\3-WrapMethod\UPaymentService.pas',
+  UTimeEntry in '..\Dodo.LegacyCode\3-WrapMethod\UTimeEntry.pas';
 
 {R *.RES}
 
