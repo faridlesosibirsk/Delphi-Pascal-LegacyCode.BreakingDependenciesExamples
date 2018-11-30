@@ -19,7 +19,9 @@ uses
   UOrder in '..\Dodo.LegacyCode\1-SproutMethod\UOrder.pas',
   UOrderProcessor in '..\Dodo.LegacyCode\1-SproutMethod\UOrderProcessor.pas',
   DUnitTestRunner,
-  UOrderCalculator in '..\Dodo.LegacyCode\0-PreserveSignatures\UOrderCalculator.pas';
+  UOrderCalculator in '..\Dodo.LegacyCode\0-PreserveSignatures\UOrderCalculator.pas',
+  UOfficeManager in '..\Dodo.LegacyCode\2-SproutClass\UOfficeManager.pas',
+  UOfficeManagerReport in '..\Dodo.LegacyCode\2-SproutClass\UOfficeManagerReport.pas';
 
 {R *.RES}
 
