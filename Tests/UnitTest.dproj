@@ -98,6 +98,7 @@
 			<DCCReference Include="..\Dodo.LegacyCode\5-Extract&amp;Override\UPrinter.pas"/>
 			<DCCReference Include="..\Dodo.LegacyCode\5-Extract&amp;Override\UShoppingCart.pas"/>
 			<DCCReference Include="..\Dodo.LegacyCode\5-Extract&amp;Override\UTerminal.pas"/>
+			<DCCReference Include="..\Dodo.LegacyCode\6-ParallelDesign\UContractorLegacy.pas"/>
 			<BuildConfiguration Include="Release">
 				<Key>Cfg_2</Key>
 				<CfgParent>Base</CfgParent>

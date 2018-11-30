@@ -32,7 +32,8 @@ uses
   Unit3 in '..\Dodo.LegacyCode\4-WrapClass\Unit3.pas',
   UPrinter in '..\Dodo.LegacyCode\5-Extract&Override\UPrinter.pas',
   UShoppingCart in '..\Dodo.LegacyCode\5-Extract&Override\UShoppingCart.pas',
-  UTerminal in '..\Dodo.LegacyCode\5-Extract&Override\UTerminal.pas';
+  UTerminal in '..\Dodo.LegacyCode\5-Extract&Override\UTerminal.pas',
+  UContractorLegacy in '..\Dodo.LegacyCode\6-ParallelDesign\UContractorLegacy.pas';
 
 {R *.RES}
 
