@@ -95,6 +95,9 @@
 			<DCCReference Include="..\Dodo.LegacyCode\4-WrapClass\Unit4.pas"/>
 			<DCCReference Include="..\Dodo.LegacyCode\4-WrapClass\Unit2.pas"/>
 			<DCCReference Include="..\Dodo.LegacyCode\4-WrapClass\Unit3.pas"/>
+			<DCCReference Include="..\Dodo.LegacyCode\5-Extract&amp;Override\UPrinter.pas"/>
+			<DCCReference Include="..\Dodo.LegacyCode\5-Extract&amp;Override\UShoppingCart.pas"/>
+			<DCCReference Include="..\Dodo.LegacyCode\5-Extract&amp;Override\UTerminal.pas"/>
 			<BuildConfiguration Include="Release">
 				<Key>Cfg_2</Key>
 				<CfgParent>Base</CfgParent>

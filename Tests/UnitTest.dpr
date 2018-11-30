@@ -29,7 +29,10 @@ uses
   Unit1 in '..\Dodo.LegacyCode\4-WrapClass\Unit1.pas',
   Unit4 in '..\Dodo.LegacyCode\4-WrapClass\Unit4.pas',
   Unit2 in '..\Dodo.LegacyCode\4-WrapClass\Unit2.pas',
-  Unit3 in '..\Dodo.LegacyCode\4-WrapClass\Unit3.pas';
+  Unit3 in '..\Dodo.LegacyCode\4-WrapClass\Unit3.pas',
+  UPrinter in '..\Dodo.LegacyCode\5-Extract&Override\UPrinter.pas',
+  UShoppingCart in '..\Dodo.LegacyCode\5-Extract&Override\UShoppingCart.pas',
+  UTerminal in '..\Dodo.LegacyCode\5-Extract&Override\UTerminal.pas';
 
 {R *.RES}
 
