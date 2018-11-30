@@ -25,7 +25,11 @@ uses
   UEmployee in '..\Dodo.LegacyCode\3-WrapMethod\UEmployee.pas',
   UMoney in '..\Dodo.LegacyCode\3-WrapMethod\UMoney.pas',
   UPaymentService in '..\Dodo.LegacyCode\3-WrapMethod\UPaymentService.pas',
-  UTimeEntry in '..\Dodo.LegacyCode\3-WrapMethod\UTimeEntry.pas';
+  UTimeEntry in '..\Dodo.LegacyCode\3-WrapMethod\UTimeEntry.pas',
+  Unit1 in '..\Dodo.LegacyCode\4-WrapClass\Unit1.pas',
+  Unit4 in '..\Dodo.LegacyCode\4-WrapClass\Unit4.pas',
+  Unit2 in '..\Dodo.LegacyCode\4-WrapClass\Unit2.pas',
+  Unit3 in '..\Dodo.LegacyCode\4-WrapClass\Unit3.pas';
 
 {R *.RES}
 
