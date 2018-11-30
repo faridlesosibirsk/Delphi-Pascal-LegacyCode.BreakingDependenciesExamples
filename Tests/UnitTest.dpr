@@ -33,7 +33,8 @@ uses
   UPrinter in '..\Dodo.LegacyCode\5-Extract&Override\UPrinter.pas',
   UShoppingCart in '..\Dodo.LegacyCode\5-Extract&Override\UShoppingCart.pas',
   UTerminal in '..\Dodo.LegacyCode\5-Extract&Override\UTerminal.pas',
-  UContractorLegacy in '..\Dodo.LegacyCode\6-ParallelDesign\UContractorLegacy.pas';
+  UContractorLegacy in '..\Dodo.LegacyCode\6-ParallelDesign\UContractorLegacy.pas',
+  UUtils in '..\Dodo.LegacyCode\7-StaticClass\UUtils.pas';
 
 {R *.RES}
 
